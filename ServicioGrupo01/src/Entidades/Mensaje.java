@@ -11,4 +11,5 @@ public class Mensaje {
     private boolean recibido;
     private Cliente cliente;
     
+    
 }
