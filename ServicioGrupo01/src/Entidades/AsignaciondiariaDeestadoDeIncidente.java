@@ -39,7 +39,5 @@ public class AsignacionDiariaDeEstadoDeIncidente implements Reporte{
     public void generarAsignaciones(){
         
     }
+}    
             
-            
-    
-}
