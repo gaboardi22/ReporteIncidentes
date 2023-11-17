@@ -1,16 +1,16 @@
 
 package Entidades;
 
-public class AsignaciondiariaDeestadoDeIncidente implements Reporte{
+public class AsignaciondiariaDeEstadoDeIncidente implements Reporte{
     
     private int idReporte;
     private String tituloReporte;
 
-    public AsignaciondiariaDeestadoDeIncidente() {
+    public AsignaciondiariaDeEstadoDeIncidente() {
     }
 
     
-    public AsignaciondiariaDeestadoDeIncidente(int idReporte, String tituloReporte) {
+    public AsignaciondiariaDeEstadoDeIncidente(int idReporte, String tituloReporte) {
         this.idReporte = idReporte;
         this.tituloReporte = tituloReporte;
     }
